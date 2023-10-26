@@ -1,4 +1,4 @@
-# Ludo App Readme
+# Ludo Website Readme
 
 ## Table of Contents
 1. [Introduction](#introduction)
