@@ -7,7 +7,6 @@
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## 1. Introduction
 This is a simple Ludo game application created using HTML, CSS, JavaScript, and jQuery. Ludo is a classic board game that is fun to play with family and friends. This web app allows you to enjoy the game online in your browser.
